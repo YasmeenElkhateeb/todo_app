@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:todo_app/deviders/AppConfigProvider.dart';
+import 'package:todo_app/providers/AppConfigProvider.dart';
 import 'package:todo_app/setting/theme_bottom_sheet.dart';
 
 import '../my_theme.dart';

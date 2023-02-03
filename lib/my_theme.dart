@@ -26,8 +26,10 @@ class MyTheme {
 
           headline3: TextStyle(
               color: blackLight, fontSize: 14),
-          subtitle2: TextStyle(
+          subtitle1: TextStyle(
               color: primaryLight, fontSize: 14),
+        subtitle2: TextStyle(
+            color: greenColor, fontSize: 14),
 
       ),
       bottomNavigationBarTheme: BottomNavigationBarThemeData(
@@ -52,7 +54,11 @@ class MyTheme {
       headline3: TextStyle(
           color: whiteColor, fontSize: 14),
       subtitle2: TextStyle(
-          color: primaryLight, fontSize: 14),
+          color: greenColor, fontSize: 14),
+      subtitle1: TextStyle(
+          color: primaryLight, fontSize: 20),
+      bodyText1: TextStyle(
+        color: blackDark, fontSize: 15),
 
     ),
     bottomNavigationBarTheme: BottomNavigationBarThemeData(

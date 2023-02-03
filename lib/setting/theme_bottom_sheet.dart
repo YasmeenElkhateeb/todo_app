@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:todo_app/deviders/AppConfigProvider.dart';
+import 'package:todo_app/providers/AppConfigProvider.dart';
 
 import '../my_theme.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
